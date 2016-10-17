@@ -30,8 +30,24 @@ regions[page_bottom]    = 'Page bottom'
 ;; Stylesheets
 ;;;;;;;;;;;;;;;;;;;;;
 
-stylesheets[all][] = css/style.css
+stylesheets[all][] = assets/css/core/bootstrap.min.css
+stylesheets[all][] = assets/css/core/animate.min.css
+stylesheets[all][] = assets/css/main/main.css
+stylesheets[all][] = assets/css/main/setting.css
+stylesheets[all][] = assets/css/main/hover.css
+stylesheets[all][] = assets/css/magnific/magic.min.css
+stylesheets[all][] = assets/css/magnific/magnific-popup.css
+stylesheets[all][] = assets/css/magnific/magnific-popup-zoom-gallery.css
+stylesheets[all][] = assets/css/owl-carousel/owl.carousel.css
+stylesheets[all][] = assets/css/owl-carousel/owl.theme.css
+stylesheets[all][] = assets/css/owl-carousel/owl.transitions.css
+stylesheets[all][] = assets/css/color/pasific.css
+stylesheets[all][] = assets/css/icon/font-awesome.css
+stylesheets[all][] = assets/css/icon/et-line-font.css
+
 
 ;;;;;;;;;;;;;;;;;;;;;
 ;; Scripts
 ;;;;;;;;;;;;;;;;;;;;;
+
+scripts[] = myscript.js
