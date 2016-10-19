@@ -75,7 +75,7 @@
 ?>
 		<div id="pageloader">
 			<div class="loader-item">
-                <img src="/sites/all/themes/informatexpert/images/puff.svg" alt="page loader">
+                <img src="/sites/all/themes/informatexpert/images/other/puff.svg" alt="page loader">
             </div>
 		</div>
 
