@@ -50,4 +50,18 @@ stylesheets[all][] = css/et-line-font.css
 ;; Scripts
 ;;;;;;;;;;;;;;;;;;;;;
 
-scripts[] = myscript.js
+scripts[] = js/jquery.min.js
+scripts[] = js/bootstrap.min.js
+scripts[] = js/jquery.magnific-popup.min.js
+scripts[] = js/magnific-popup-zoom-gallery.js
+scripts[] = js/bootstrap-progressbar.js
+scripts[] = js/bootstrap-progressbar-main.js
+scripts[] = js/jquery.simple-text-rotator.min.js
+scripts[] = js/jquery.appear.js
+scripts[] = js/isotope.pkgd.min.js
+scripts[] = js/parallax.min.js
+scripts[] = js/jquery.countTo.js
+scripts[] = js/owl.carousel.min.js
+scripts[] = js/jquery.sticky.js
+scripts[] = js/imagesloaded.pkgd.min.js
+scripts[] = js/main.js
