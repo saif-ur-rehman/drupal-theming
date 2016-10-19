@@ -30,20 +30,20 @@ regions[page_bottom]    = 'Page bottom'
 ;; Stylesheets
 ;;;;;;;;;;;;;;;;;;;;;
 
-stylesheets[all][] = assets/css/core/bootstrap.min.css
-stylesheets[all][] = assets/css/core/animate.min.css
-stylesheets[all][] = assets/css/main/main.css
-stylesheets[all][] = assets/css/main/setting.css
-stylesheets[all][] = assets/css/main/hover.css
-stylesheets[all][] = assets/css/magnific/magic.min.css
-stylesheets[all][] = assets/css/magnific/magnific-popup.css
-stylesheets[all][] = assets/css/magnific/magnific-popup-zoom-gallery.css
-stylesheets[all][] = assets/css/owl-carousel/owl.carousel.css
-stylesheets[all][] = assets/css/owl-carousel/owl.theme.css
-stylesheets[all][] = assets/css/owl-carousel/owl.transitions.css
-stylesheets[all][] = assets/css/color/pasific.css
-stylesheets[all][] = assets/css/icon/font-awesome.css
-stylesheets[all][] = assets/css/icon/et-line-font.css
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/animate.min.css
+stylesheets[all][] = css/main.css
+stylesheets[all][] = css/setting.css
+stylesheets[all][] = css/hover.css
+stylesheets[all][] = css/magic.min.css
+stylesheets[all][] = css/magnific-popup.css
+stylesheets[all][] = css/magnific-popup-zoom-gallery.css
+stylesheets[all][] = css/owl.carousel.css
+stylesheets[all][] = css/owl.theme.css
+stylesheets[all][] = css/owl.transitions.css
+stylesheets[all][] = css/pasific.css
+stylesheets[all][] = css/font-awesome.css
+stylesheets[all][] = css/et-line-font.css
 
 
 ;;;;;;;;;;;;;;;;;;;;;
